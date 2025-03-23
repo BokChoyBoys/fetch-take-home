@@ -7,5 +7,5 @@ then \
 
 ## Endpoints
 
-POST ``receipts/process`` \
-GET ``receipts/{id}/points``
+POST ``http://localhost:8080/receipts/process`` \
+GET ``http://localhost:8080/receipts/{id}/points``
